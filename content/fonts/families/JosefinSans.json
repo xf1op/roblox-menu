@@ -1,0 +1,89 @@
+{
+	"name": "Josefin Sans",
+	"faces": [
+		{
+			"name": "Thin",
+			"weight": 100,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Thin Italic",
+			"weight": 100,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Extra Light",
+			"weight": 200,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Extra Light Italic",
+			"weight": 200,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Light",
+			"weight": 300,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Light Italic",
+			"weight": 300,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Regular",
+			"weight": 400,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Italic",
+			"weight": 400,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Medium",
+			"weight": 500,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Medium Italic",
+			"weight": 500,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Semi Bold",
+			"weight": 600,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Semi Bold Italic",
+			"weight": 600,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Bold",
+			"weight": 700,
+			"style": "normal",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		},
+		{
+			"name": "Bold Italic",
+			"weight": 700,
+			"style": "italic",
+			"assetId": "rbxasset://fonts/zekton_rg.ttf"
+		}
+	]
+}
